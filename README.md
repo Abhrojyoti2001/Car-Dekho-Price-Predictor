@@ -1,2 +1,2 @@
-# Car-decho-pice-predictor
+# Car-Dekho-Pice-Predictor
 A regression problem based on cardekho dataset
